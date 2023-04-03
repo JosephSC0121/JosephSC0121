@@ -1,5 +1,5 @@
 # 📓 About Me:
-"Hello! I'm Joseph Cristian Silva Casas, student of mathematics and systems engineering.  I'm always open to collaborating on interesting projects.<br><br>📖 I’m currently learning<br>Python<br>Javascript/typescript<br>Archlinux<br>Machine learning<br>
+"Hello! I'm Joseph Cristian Silva Casas, student of mathematics and systems engineering.  I'm always open to collaborating on interesting projects.<br><br>📖 I’m currently learning<br>Python<br>Javascript/typescript<br>Archlinux<br>Machine learning<br>lua<br>
 
 
 ## 🌐 Socials:
