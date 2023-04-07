@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Python, Javacript, TypeScript, React.**
 
-- 👯 I’m looking to collaborate on **Machine Learning** and **Front end** proyects
+- 👯 I’m looking to collaborate on **Machine Learning** and **Front end** proyects.
 
 - 📫 How to reach me **josephsilva0121@gmail.com**
 
