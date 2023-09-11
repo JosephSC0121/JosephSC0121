@@ -5,9 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joseph-silva-casas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-silva-casas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joseph-cristian-silva-casas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-silva-casas" height="30" width="40" /></a>
 <a href="https://instagram.com/josephsilva_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josephsilva_21" height="30" width="40" /></a>
-<a href="https://medium.com/@josephsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@josephsilva" height="30" width="40" /></a>
+<a href="https://medium.com/@josephsilva0121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@josephsilva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
