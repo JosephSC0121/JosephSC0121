@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Joseph Silva</h1>
 <h3 align="center">Hello! I'm Joseph Cristian Silva Casas, student of mathematics and systems engineering. I'm always open to collaborating on interesting projects.</h3>
 
-- 👨‍💻 All of my projects are available at [https://joseph-homepage.vercel.app/](https://joseph-homepage.vercel.app/)
+- 👨‍💻 Some of my projects are available at [here](https://joseph-homepage.vercel.app/)
 
 - 📫 How to reach me **josephsilva0121@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/joseph-silva-casas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-silva-casas" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/joseph-cristian-silva-casas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph-silva-casas" height="30" width="40" /></a>
 <a href="https://instagram.com/josephsilva_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josephsilva_21" height="30" width="40" /></a>
-<a href="https://medium.com/@josephsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@josephsilva" height="30" width="40" /></a>
+<a href="https://medium.com/@josephsilva0121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@josephsilva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
