@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Joseph Silva</h1>
 <h3 align="center">Hello! I'm Joseph Cristian Silva Casas, student of mathematics and systems engineering. I'm always open to collaborating on interesting projects.</h3>
 
-- 👨‍💻 Some of my projects are available at [here](https://joseph-homepage.vercel.app/)
+- 👨‍💻 Some of my projects are available at [here](https://joseph.learnofficial.org/)
 
 - 📫 How to reach me **josephsilva0121@gmail.com**
 
