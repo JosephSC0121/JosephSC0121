@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 Some of my projects are available at [joseph.mariailabs.com](https://josephsilvacasas.com/)
+- 👨‍💻 Some of my projects are available at [josephsilvacasas.com](https://josephsilvacasas.com/)
 
 - 📫 How to reach me **josephsilvacasas0121@gmail.com**
 
