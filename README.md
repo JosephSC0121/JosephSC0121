@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Silva</h1>
-<h3 align="center">Hello! I'm Joseph Cristian Silva Casas, student of mathematics and systems engineering. I'm always open to collaborating on interesting projects.</h3>
+<h3 align="center">Hello! I'm Joseph Cristian Silva Casas, software engineer and math student. I'm always open to collaborating on interesting projects.</h3>
 
 - 🌱 I’m currently learning **Machine Learning**
 
